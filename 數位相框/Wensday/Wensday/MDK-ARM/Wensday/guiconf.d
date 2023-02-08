@@ -1,0 +1,9 @@
+wensday\guiconf.o: ../STemWin/Target/GUIConf.c
+wensday\guiconf.o: ../Middlewares/ST/STemWin/inc/GUI.h
+wensday\guiconf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wensday\guiconf.o: ../Middlewares/ST/STemWin/inc/GUI_ConfDefaults.h
+wensday\guiconf.o: ../STemWin/Target/GUIConf.h
+wensday\guiconf.o: ../Middlewares/ST/STemWin/inc/GUI_Type.h
+wensday\guiconf.o: ../Middlewares/ST/STemWin/inc/LCD.h
+wensday\guiconf.o: ../Middlewares/ST/STemWin/inc/Global.h
+wensday\guiconf.o: ../Middlewares/ST/STemWin/inc/GUI_Version.h
